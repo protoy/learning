@@ -5,7 +5,7 @@ int main(void){
     int i;
     for(i=0; i<26; i++){
         array[i] = 'a' + i;
-        printf("array[%d] is %c\n", i+1, array[i]);
+        printf("array[%d] is %c, ASIIC number is %d\n", i+1, array[i],array[i]);
     }
 
     return 0;
