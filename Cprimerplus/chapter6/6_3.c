@@ -1,3 +1,9 @@
+//.使用嵌套循环，按下面的格式打印字母：
+// F
+// FE
+// FED
+// ...
+// FEDCBA
 #include <stdio.h>
 
 int main(void)

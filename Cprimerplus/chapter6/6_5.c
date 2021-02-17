@@ -1,3 +1,8 @@
+// A
+// ABA
+// ABCBA
+// ...
+// ABCDEDCBA
 #include <stdio.h>
 
 int main(void)
